@@ -362,7 +362,7 @@ ORDER BY total_sold_items DESC;
 ## 6. Ranking Analysis (Sıralama Analizi)
 
 <img width="2300" height="996" alt="image" src="https://github.com/user-attachments/assets/6f02cd52-9e12-4948-a39e-182ae7a78d3e" />
-
+<p></p>
 
 **En Yüksek Geliri Sağlayan 5 Ürün Hangileri?**
 **- Basit Sıralama**
