@@ -288,7 +288,7 @@ SELECT 'Total Customers', COUNT(customer_key) FROM gold.dim_customers;
 **Amaç:**
 - Verileri ölçmek ve sonuçları belirli boyutlara göre gruplandırmak.
 - Kategoriler arası veri dağılımını anlamak.
-- 
+  
 <p></p>
 <img width="1667" height="861" alt="image" src="https://github.com/user-attachments/assets/72aea00f-a46b-4a5f-9fa1-830e760e9aa5" />
 <p></p>
@@ -382,6 +382,10 @@ ORDER BY total_sold_items DESC;
 ```
 
 ## 6. Ranking Analysis (Sıralama Analizi)
+
+**Amaç:**
+- Ürünleri (örneğin ürünler, müşteriler) performans veya diğer ölçütlere göre sıralamak.
+- En iyi performans gösterenleri veya geride kalanları belirlemek.
 
 <p></p>
 <img width="2300" height="996" alt="image" src="https://github.com/user-attachments/assets/6f02cd52-9e12-4948-a39e-182ae7a78d3e" />
