@@ -177,6 +177,9 @@ ORDER BY category, subcategory, product_name;
 
 ## 3. Date Range Exploration (Tarih Aralığı Keşfi)
 
+   <img width="1771" height="696" alt="image" src="https://github.com/user-attachments/assets/71b80502-c90c-42c7-9c18-67431604a333" />
+
+
 **İlk ve son sipariş tarihini ve toplam süreyi ay olarak belirleyin**
 
 ```sql
