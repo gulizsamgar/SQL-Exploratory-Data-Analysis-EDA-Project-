@@ -9,8 +9,6 @@ Analiz sürecinde veritabanı keşfi, boyut ve tarih araştırması, temel ölç
 Üst yönetim için elde edilen bulgular ve önerilerle stratejik karar alma süreçleri desteklenmiştir.
 
 
-<img width="1116" height="775" alt="image" src="https://github.com/user-attachments/assets/56fe3f40-eb93-452a-8466-9cb59e8ed9c4" />
-
 ---
 
 ## 📂 Veri Seti Bilgisi
@@ -32,6 +30,8 @@ Bu tablolar, müşteri ve ürün anahtarları üzerinden ilişkilendirilerek ana
 3. Date Exploration (Boyut araştırması)  
 4. Measures Exploration (Boyut araştırması)  
 5. Magnitude Analysis (Büyüklük analizi)
+
+   <img width="1116" height="775" alt="image" src="https://github.com/user-attachments/assets/56fe3f40-eb93-452a-8466-9cb59e8ed9c4" />
 
 ---
 
@@ -152,6 +152,9 @@ WHERE TABLE_NAME = 'dim_customers';
 
 ## 2. Dimensions Exploration (Boyut Keşfi)
 
+<img width="1526" height="730" alt="image" src="https://github.com/user-attachments/assets/b6ea0f43-cbd3-410e-921d-8a2196716785" />
+
+
 **Müşterilerin geldiği benzersiz ülkelerin bir listesini alın**
 
 ```sql
@@ -196,6 +199,9 @@ FROM gold.dim_customers;
 ```
 
 ## 4. Measures Exploration (Key Metrics) - (Ölçüm Keşfi)
+
+<img width="1767" height="708" alt="image" src="https://github.com/user-attachments/assets/69fed56c-390c-4d19-84e6-95a5cdcd96ff" />
+
 
 **Toplam Satışları Bulun**
 
@@ -258,6 +264,9 @@ SELECT 'Total Customers', COUNT(customer_key) FROM gold.dim_customers;
 ```
 
 ## 5. Magnitude Analysis (Büyüklük Analizi)
+
+<img width="1667" height="861" alt="image" src="https://github.com/user-attachments/assets/72aea00f-a46b-4a5f-9fa1-830e760e9aa5" />
+
 
 **Ülkelere göre toplam müşteri sayısını bulun**
 
@@ -348,6 +357,9 @@ ORDER BY total_sold_items DESC;
 ```
 
 ## 6. Ranking Analysis (Sıralama Analizi)
+
+<img width="2300" height="996" alt="image" src="https://github.com/user-attachments/assets/6f02cd52-9e12-4948-a39e-182ae7a78d3e" />
+
 
 **En Yüksek Geliri Sağlayan 5 Ürün Hangileri?**
 **- Basit Sıralama**
