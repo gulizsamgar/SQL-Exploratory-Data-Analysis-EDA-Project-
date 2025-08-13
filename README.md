@@ -177,8 +177,8 @@ ORDER BY category, subcategory, product_name;
 
 ## 3. Date Range Exploration (Tarih Aralığı Keşfi)
 
-   <img width="1771" height="696" alt="image" src="https://github.com/user-attachments/assets/71b80502-c90c-42c7-9c18-67431604a333" />
-
+<img width="1771" height="696" alt="image" src="https://github.com/user-attachments/assets/71b80502-c90c-42c7-9c18-67431604a333" />
+<p></p>
 
 **İlk ve son sipariş tarihini ve toplam süreyi ay olarak belirleyin**
 
@@ -204,7 +204,7 @@ FROM gold.dim_customers;
 ## 4. Measures Exploration (Key Metrics) - (Ölçüm Keşfi)
 
 <img width="1767" height="708" alt="image" src="https://github.com/user-attachments/assets/69fed56c-390c-4d19-84e6-95a5cdcd96ff" />
-
+<p></p>
 
 **Toplam Satışları Bulun**
 
@@ -269,7 +269,7 @@ SELECT 'Total Customers', COUNT(customer_key) FROM gold.dim_customers;
 ## 5. Magnitude Analysis (Büyüklük Analizi)
 
 <img width="1667" height="861" alt="image" src="https://github.com/user-attachments/assets/72aea00f-a46b-4a5f-9fa1-830e760e9aa5" />
-
+<p></p>
 
 **Ülkelere göre toplam müşteri sayısını bulun**
 
