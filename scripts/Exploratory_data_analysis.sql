@@ -6,7 +6,7 @@ Amaç:
 - Tabloların listesi ve şemaları dahil olmak üzere veritabanının yapısını incelemek.
 - Belirli tabloların sütunlarını ve meta verilerini incelemek.
 
-Kullanılan Tablo:
+Tablo kullanımı:
     - INFORMATION_SCHEMA.TABLES
     - INFORMATION_SCHEMA.COLUMNS
 ===============================================================================
