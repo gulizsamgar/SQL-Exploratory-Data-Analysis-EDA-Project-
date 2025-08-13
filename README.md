@@ -127,6 +127,10 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 
 ## 1. Database Exploration (Veritabanı Keşfi)
 
+**Amaç:**
+- Tabloların listesi ve şemaları dahil olmak üzere veritabanının yapısını incelemek.
+- Belirli tabloların sütunlarını ve meta verilerini incelemek.
+
 **Veritabanındaki tüm tabloların listesini alın**
 ```sql
 SELECT 
@@ -150,6 +154,9 @@ WHERE TABLE_NAME = 'dim_customers';
 ```
 
 ## 2. Dimensions Exploration (Boyut Keşfi)
+
+**Amaç:**
+- Boyut tablolarının yapısını incelemek.
 
 <p></p>
 <img width="1526" height="730" alt="image" src="https://github.com/user-attachments/assets/b6ea0f43-cbd3-410e-921d-8a2196716785" />
@@ -176,6 +183,10 @@ ORDER BY category, subcategory, product_name;
 ```
 
 ## 3. Date Range Exploration (Tarih Aralığı Keşfi)
+
+**Amaç:**
+- Temel veri noktalarının zamansal sınırlarını belirlemek.
+- Geçmiş verilerin aralığını anlamak.
 
 <p></p>
 <img width="1771" height="696" alt="image" src="https://github.com/user-attachments/assets/71b80502-c90c-42c7-9c18-67431604a333" />
@@ -204,6 +215,10 @@ FROM gold.dim_customers;
 
 ## 4. Measures Exploration (Key Metrics) - (Ölçüm Keşfi)
 
+**Amaç:**
+- Hızlı içgörüler için toplu metrikleri (örneğin, toplamlar, ortalamalar) hesaplamak.
+- Genel eğilimleri belirlemek veya anormallikleri tespit etmek.
+  
 <p></p>
 <img width="1767" height="708" alt="image" src="https://github.com/user-attachments/assets/69fed56c-390c-4d19-84e6-95a5cdcd96ff" />
 <p></p>
@@ -270,6 +285,10 @@ SELECT 'Total Customers', COUNT(customer_key) FROM gold.dim_customers;
 
 ## 5. Magnitude Analysis (Büyüklük Analizi)
 
+**Amaç:**
+- Verileri ölçmek ve sonuçları belirli boyutlara göre gruplandırmak.
+- Kategoriler arası veri dağılımını anlamak.
+- 
 <p></p>
 <img width="1667" height="861" alt="image" src="https://github.com/user-attachments/assets/72aea00f-a46b-4a5f-9fa1-830e760e9aa5" />
 <p></p>
