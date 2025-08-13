@@ -26,10 +26,12 @@ Bu tablolar, müşteri ve ürün anahtarları üzerinden ilişkilendirilerek ana
 ## 📋 İçerik
 
 1. Database Exploration (Veritabanı Keşfi)  
-2. Dimensions Exploration (Boyut araştırması)  
-3. Date Exploration (Boyut araştırması)  
-4. Measures Exploration (Boyut araştırması)  
+2. Dimensions Exploration (Boyut Keşfi)  
+3. Date Exploration (Tarih Keşfi)  
+4. Measures Exploration (Ölçüm Keşfi)  
 5. Magnitude Analysis (Büyüklük analizi)
+6. Ranking Analysis (Sıralama Analizi)
+
 
    <img width="1116" height="775" alt="image" src="https://github.com/user-attachments/assets/56fe3f40-eb93-452a-8466-9cb59e8ed9c4" />
 
