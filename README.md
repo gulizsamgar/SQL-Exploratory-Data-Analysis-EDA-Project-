@@ -4,8 +4,7 @@
 
 **Kod:** [`Exploratory_data_analysis`](scripts/Exploratory_data_analysis.sql)
 
-**Açıklama:**  
-Bu proje, SQL kullanarak satış, müşteri ve ürün verileri üzerinde keşifsel veri analizi (EDA) yapılmasını kapsamaktadır.  
+**Açıklama:**  Bu proje, SQL kullanarak satış, müşteri ve ürün verileri üzerinde keşifsel veri analizi (EDA) yapılmasını kapsamaktadır.  
 Analiz sürecinde veritabanı keşfi, boyut ve tarih araştırması, temel ölçümler, büyüklük analizi ve sıralama analizleri yapılmıştır.  
 Üst yönetim için elde edilen bulgular ve önerilerle stratejik karar alma süreçleri desteklenmiştir.
 
