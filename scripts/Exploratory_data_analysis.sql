@@ -118,6 +118,7 @@ SELECT COUNT(DISTINCT order_number) AS total_orders FROM gold.fact_sales
 
 -- Toplam ürün sayısını bulun
 SELECT COUNT(product_name) AS total_products FROM gold.dim_products
+SELECT COUNT(DISTINCT product_name) AS total_products FROM gold.dim_products
 
 -- Toplam müşteri sayısını bulun
 SELECT COUNT(customer_key) AS total_customers FROM gold.dim_customers;
