@@ -2,7 +2,7 @@
 
 ## 🚀 Projeye Genel Bakış
 
-**Kod:** [`Exploratory Data_analysis`](scripts/Exploratory_data_analysis.sql)
+**Kod:** [`Exploratory_data_analysis`](scripts/Exploratory_data_analysis.sql)
 
 **Açıklama:**  
 Bu proje, SQL kullanarak satış, müşteri ve ürün verileri üzerinde keşifsel veri analizi (EDA) yapılmasını kapsamaktadır.  
