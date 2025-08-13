@@ -8,6 +8,7 @@
 Analiz sürecinde veritabanı keşfi, boyut ve tarih araştırması, temel ölçümler, büyüklük analizi ve sıralama analizleri yapılmıştır.  
 Üst yönetim için elde edilen bulgular ve önerilerle stratejik karar alma süreçleri desteklenmiştir.
 
+
 <img width="1116" height="775" alt="image" src="https://github.com/user-attachments/assets/56fe3f40-eb93-452a-8466-9cb59e8ed9c4" />
 
 ---
