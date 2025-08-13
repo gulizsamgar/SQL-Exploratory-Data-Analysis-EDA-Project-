@@ -73,7 +73,7 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 - Alt kategori bazında en yüksek gelire sahip 5 ürün: Road Bikes (14.519.438) Mountain Bikes  (9.952.254), Touring Bikes (3.844.580), Tires and Tubes (244.634), Helmest (225.435).
 - En düşük getirili ürünler arasında Racing Socks-L, Racing Socks-M, Patch Kit/8 Patches gibi aksesuarlar bulunuyor.
 
-**Öneriler:**
+**✅Öneriler:**
 - Yüksek getirili bisiklet modelleri stokta tutulmalı, yeni varyasyonlar ile ürün gamı genişletilmeli.
 - Düşük performanslı ürünler için promosyonlar, paket satışlar veya fiyat optimizasyonu yapılmalı.
 - Orta gelir getiren ürünlerde çapraz satış stratejileri (örn. bisiklet + aksesuar paketi) uygulanmalı.
@@ -88,7 +88,7 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 - En yüksek gelir getiren 10 müşteri, kişi başı yaklaşık 13.200 – 13.300 gelir üretiyor. Bu segment değerli müşterileri içerir.
 - En düşük gelir getiren müşteriler yalnızca 2 birim gelir getirmiş, bu da düşük etkileşimli veya tek seferlik alışveriş yapan bir segment olduğunu gösteriyor.
 
-**Öneriler:**
+**✅Öneriler:**
 - ABD ve Avustralya pazarlarında pazarlama bütçesi artırılmalı, özel kampanyalar planlanmalı.
 - Yüksek gelirli müşteriler için sadakat programları ve özel tekliflerle müşteri elde tutma oranı artırılmalı.
 - Düşük gelir getiren müşteriler için yeniden hedefleme (retargeting) kampanyaları yapılmalı.
@@ -102,7 +102,7 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 - Ortalama ürün maliyeti en yüksek kategori: Bikes (949), en düşük: Accessories (13-24).
 - Bazı kategorilerde NULL değerler var (7 ürün), bu veri kalitesinde sorun yaratabilir.
 
-**Öneriler:**
+**✅Öneriler:**
 - Stok yönetimi yüksek maliyetli ürünlerde daha etkin yapılmalı.
 - Düşük maliyetli ürünlerde kâr marjı artırıcı fiyatlandırma stratejileri değerlendirilmeli.
 
@@ -113,7 +113,7 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 - İlk sipariş tarihi: 2010-12-29, son sipariş: 2014-01-28, analiz dönemi: 37 ay.
 - En yaşlı müşteri: 109 yaşında, en genç müşteri: 39 yaşında (doğum yılı 1986).
 
-**Öneriler:**
+**✅Öneriler:**
 - Yaş gruplarına göre hedefli kampanyalar düzenlenmeli (örn. genç müşterilere spor amaçlı ürünler, daha ileri yaşa uygun bisiklet ve aksesuarlar).
 - Sezonluk satış trendleri analiz edilerek stok planlaması yapılmalı.
 
