@@ -76,7 +76,6 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 - Düşük performanslı ürünler için promosyonlar, paket satışlar veya fiyat optimizasyonu yapılmalı.
 - Orta gelir getiren ürünlerde çapraz satış stratejileri (örn. bisiklet + aksesuar paketi) uygulanmalı.
 
----
 
 ### 2. Müşteri Analizi
 
@@ -92,7 +91,6 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 - Yüksek gelirli müşteriler için sadakat programları ve özel tekliflerle müşteri elde tutma oranı artırılmalı.
 - Düşük gelir getiren müşteriler için yeniden hedefleme (retargeting) kampanyaları yapılmalı.
 
----
 
 ### 3. Ürün ve Stok Yönetimi
 
@@ -106,7 +104,6 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 - Stok yönetimi yüksek maliyetli ürünlerde daha etkin yapılmalı.
 - Düşük maliyetli ürünlerde kâr marjı artırıcı fiyatlandırma stratejileri değerlendirilmeli.
 
----
 
 ### 4. Demografik ve Zaman Analizi
 
