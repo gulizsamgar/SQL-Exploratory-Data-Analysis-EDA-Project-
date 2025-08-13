@@ -152,8 +152,9 @@ WHERE TABLE_NAME = 'dim_customers';
 
 ## 2. Dimensions Exploration (Boyut Keşfi)
 
+<p></p>
 <img width="1526" height="730" alt="image" src="https://github.com/user-attachments/assets/b6ea0f43-cbd3-410e-921d-8a2196716785" />
-
+<p></p>
 
 **Müşterilerin geldiği benzersiz ülkelerin bir listesini alın**
 
@@ -177,6 +178,7 @@ ORDER BY category, subcategory, product_name;
 
 ## 3. Date Range Exploration (Tarih Aralığı Keşfi)
 
+<p></p>
 <img width="1771" height="696" alt="image" src="https://github.com/user-attachments/assets/71b80502-c90c-42c7-9c18-67431604a333" />
 <p></p>
 
@@ -203,6 +205,7 @@ FROM gold.dim_customers;
 
 ## 4. Measures Exploration (Key Metrics) - (Ölçüm Keşfi)
 
+<p></p>
 <img width="1767" height="708" alt="image" src="https://github.com/user-attachments/assets/69fed56c-390c-4d19-84e6-95a5cdcd96ff" />
 <p></p>
 
@@ -268,6 +271,7 @@ SELECT 'Total Customers', COUNT(customer_key) FROM gold.dim_customers;
 
 ## 5. Magnitude Analysis (Büyüklük Analizi)
 
+<p></p>
 <img width="1667" height="861" alt="image" src="https://github.com/user-attachments/assets/72aea00f-a46b-4a5f-9fa1-830e760e9aa5" />
 <p></p>
 
@@ -361,6 +365,7 @@ ORDER BY total_sold_items DESC;
 
 ## 6. Ranking Analysis (Sıralama Analizi)
 
+<p></p>
 <img width="2300" height="996" alt="image" src="https://github.com/user-attachments/assets/6f02cd52-9e12-4948-a39e-182ae7a78d3e" />
 <p></p>
 
