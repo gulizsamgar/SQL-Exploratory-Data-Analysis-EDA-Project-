@@ -15,9 +15,9 @@ Analiz sürecinde veritabanı keşfi, boyut ve tarih araştırması, temel ölç
 
 Projede üç veri seti kullanıldı:  
 
-- [**fact_sales**](csv-files/gold.fact_sales.csv): Sipariş bazında satış detaylarını içerir (tarih, müşteri, ürün, miktar, tutar).  
-- [**report_customers**](csv-files/gold.dim_customers.csv): Müşteri bazlı özet bilgileri ve segmentlerini içerir.  
-- [**dim_products**](csv-files/gold.dim_products.csv): Ürünlerin ad, kategori, alt kategori, maliyet gibi tanımlayıcı bilgilerini içerir.  
+- [**csv-files/gold.fact_sales.csv**](csv-files/gold.fact_sales.csv): Sipariş bazında satış detaylarını içerir (tarih, müşteri, ürün, miktar, tutar).  
+- [**gold.dim_customers.csv**](csv-files/gold.dim_customers.csv): Müşteri bazlı özet bilgileri ve segmentlerini içerir.  
+- [**gold.dim_products.csv**](csv-files/gold.dim_products.csv): Ürünlerin ad, kategori, alt kategori, maliyet gibi tanımlayıcı bilgilerini içerir.  
 
 Bu tablolar, müşteri ve ürün anahtarları üzerinden ilişkilendirilerek analizler yapılmıştır.
 
