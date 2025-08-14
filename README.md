@@ -62,7 +62,7 @@ Projede aşağıdaki SQL teknikleri aktif olarak kullanılmıştır:
 
 ---
 
-## 📌 Aşağıda belirtilen analiz için Üst Yönetim için Temel Bulgular ve Öneriler
+## 📌 Aşağıda belirtilen analiz hakkında Üst Yönetim için Temel Bulgular ve Öneriler
 
 ### 1. Satış ve Gelir Analizi
 
