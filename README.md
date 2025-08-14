@@ -1,4 +1,4 @@
-# 📊 SQL kullanarak Keşifsel Veri Analizi (EDA)
+# 📊 SQL ile Keşifsel Veri Analizi (EDA)
 
 ## 🚀 Projeye Genel Bakış
 
